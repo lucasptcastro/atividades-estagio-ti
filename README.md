@@ -12,8 +12,11 @@
 - [x] Microsoft PowerAutomate: automatizar disparo de e-mails para os professores, alertando-os de quais eram suas respectivas salas de aula
 - [x] Microsoft PowerAutomate: automatizar criação de reuniões através do Microsoft Teams e envio do link para os alunos e professores que precisariam participar da aula
 - [x] Criação de aplicação para automatizar a organização de planilhas do Excel para o gerenciamento de dados de alunos/professores
-- [x] Git: criação de branches de desenvolvimento, além do uso para fazer pull/push do repositório
+- [x] Versionamento em Git: criação de branches de desenvolvimento, além do uso para fazer pull/push do repositório
 - [x] AspNet/C#/HTML/SQLite: correção de bugs no site de sistema jurídico do FeComércio
-- [ ] AspNet/C#/HTML/SQLite: implementação de novas funcionalidades no site de sistema jurídico do FeComércio
-
+- [x] AspNet/C#/HTML/SQLite: implementação de novas funcionalidades no site de sistema jurídico do FeComércio
+- [x] AspNet/C#/HTML/MySQL: criação de funcionalides para o sistema dos sindicatos da FeComércio.
+  > Migração do sistema antigo para o novo, atualizando o projeto e as consultas do SQLite para o SQLserver | Criadas features para listar os contatos dos sindicatos, os membros de cada sindicato e seus mandatos | Implementada função para gerar um PDF com todas as informações relacionadas ao sindicato selecionado 
+- [x] AspNet/C#/HTML/MySQL: criação de funcionalidades para o sistema Empregabilidade
+  > Implementada uma feature para redirecionar o candidato para a vaga de trabalho que ele selecionar na página | Implementação de um gerador de currículos 
 ##
